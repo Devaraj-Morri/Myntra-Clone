@@ -164,6 +164,8 @@
   }
 }
 
+/* small screen */
+
 @media (max-width: 1200px) {
   Nav {
     width: 100%;
@@ -345,4 +347,7 @@
   }
 }
 @media (max-width: 425px) {
+  .categories-container img {
+    width: 100%;
+  }
 }
